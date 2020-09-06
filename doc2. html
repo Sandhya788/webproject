@@ -1,1 +1,15 @@
-Hiii
+<! DOCTYPE html>
+<title>list wise</title>
+<body>
+<h1><center>ordered list</center></h1>
+<font size="6" color="purple">
+<ol>
+<li>photoshop</li>
+<li>page maker</li>
+<font size="6" color="green" face="bold"><li>Corel draw</li>
+<li>after effects</li></font>
+<li>Adobe Premiere pro</li>
+</font>
+</ol>
+</body>
+</html>
